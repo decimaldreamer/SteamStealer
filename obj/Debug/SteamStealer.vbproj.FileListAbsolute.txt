@@ -1,0 +1,7 @@
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\bin\Debug\SteamStealer.exe
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\obj\Debug\SteamStealer.vbprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\obj\Debug\SteamStealer.Resources.resources
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\obj\Debug\SteamStealer.vbproj.GenerateResource.Cache
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\obj\Debug\SteamStealer.exe
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\obj\Debug\SteamStealer.xml
+C:\Users\Serdar\Desktop\SteamStealer\SteamStealer\obj\Debug\SteamStealer.pdb
